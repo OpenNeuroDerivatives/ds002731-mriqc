@@ -1,0 +1,16 @@
+Warning: Permanently added 'c153-181' (ED25519) to the list of known hosts.
+WARNING (11/30/22 00:05:06): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5022287.hostlist.CRYxbz2t to get hosts
+starting job on c153-181
+starting job on c153-182
+starting job on c153-183
+starting job on c153-214
+starting job on c154-001
+starting job on c154-002
+starting job on c155-071
+starting job on c155-072
+starting job on c155-073
+starting job on c156-134
+starting job on c156-141
+starting job on c156-142
+Terminated
